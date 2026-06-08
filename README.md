@@ -404,6 +404,7 @@
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
+1. [TWZRD Agent Intel](https://intel.twzrd.xyz) — MCP server for agent trust verification in multi-agent and agentic MLOps pipelines. Provides `score_agent` and `preflight_check` tools (free) plus x402-gated `get_trust_receipt`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 </details>
 
 
